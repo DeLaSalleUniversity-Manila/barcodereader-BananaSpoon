@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\barcode\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Christian\Desktop\Practical\barcode\app\build\intermediates\pre-dexed\debug\classes-c434c7ee00c44f6e894ef60bc4fd3ee917d1f7c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\barcode\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Christian\Desktop\Practical\barcode\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-6304c03ca42add2cdfe5d1121c84e0382c381d35.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="C:\Users\Christian\Desktop\Practical\barcode\app\build\intermediates\pre-dexed\debug\core-3.2.0-2d4c63d167b2baca8e2c36569a160b71bbb8c2d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\barcode\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Christian\Desktop\Practical\barcode\app\build\intermediates\pre-dexed\debug\classes-12f5647eeed94989535a6f8f620bffc7eadaf13a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Christian\Desktop\Practical\barcode\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-e2a304fbfc84c220d86cc5e2d088f065794eeabe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\barcode\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eccf1a2cb72813a3099bc2618ea9d6430b92f0fc">
+        <dex dex="C:\Users\Christian\Desktop\Practical\barcode\app\build\intermediates\pre-dexed\debug\classes-98e4e29b8f2a278e9fb734c66d8896f232b11b0a.jar" />
+    </item>
+
+</items>
